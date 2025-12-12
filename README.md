@@ -77,7 +77,7 @@ RealEstateInvestmentAdvisor/
 - Correlation Heatmap
 - Schools/Hospitals vs Price
 
-####Each chart includes:
+#### Each chart includes:
 - Why the chart was selected
 - Insights from the chart
 
