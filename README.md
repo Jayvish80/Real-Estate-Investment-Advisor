@@ -98,5 +98,6 @@ RealEstateInvestmentAdvisor/
 
 ---
 ## 👨‍💻 Author
-Jay Vishwakarma
-Machine Learning & Data Science Enthusiast
+#### Jay Vishwakarma
+
+##### Machine Learning & Data Science Enthusiast
